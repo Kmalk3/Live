@@ -1,0 +1,7 @@
+?token=?????? 
+owner=509026180020699195
+prefix= v
+game= Vhelp
+stayinchannel=true
+songinstatus=true 
+token=NTIyODQzNzIwODUzMzU2NTQ1.DvQ35g.tz2AX0oH5AvnK6mST8TQzuvl258
